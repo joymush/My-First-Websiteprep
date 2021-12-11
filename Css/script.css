@@ -1,0 +1,17 @@
+h1 {
+    color:black;
+    font: italic;
+    font-size: medium;
+    font-family: serif;
+}
+h2 {
+    color: black;
+    text-align: center;
+}
+p {
+    font-family: fantasy;
+    text-align: justify;
+}
+ul {
+    line-height: calc();
+}

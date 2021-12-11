@@ -1,23 +1,37 @@
 body {
-    background-color: grey;
+    background-color:beige;
 }
 h1 {
-    color: aqua;
+    color:blue;
     text-align: center;
 }
 h2 {
-    color: green;
+    color: aqua;
     font-style: italic;
     text-align: center;
 }
 p {
     font-family:sans-serif;
+    text-align:inherit;
 }
 ul {
     line-height: 40px;
 }
-#Favorite-things.html {
-     background-color: orange;
+ol {
+    line-height: 40px;
 }
-
+.intro {
+    font-style: italic;
+}
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+}
+.column {
+    width: 350px;
+    float: left;
+}
+img {
+    float: left;
 }
